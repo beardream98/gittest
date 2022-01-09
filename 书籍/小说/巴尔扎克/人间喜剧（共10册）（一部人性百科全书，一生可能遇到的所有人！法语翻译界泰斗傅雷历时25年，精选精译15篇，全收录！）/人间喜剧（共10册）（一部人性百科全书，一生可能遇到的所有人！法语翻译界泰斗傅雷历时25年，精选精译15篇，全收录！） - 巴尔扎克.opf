@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bd696f35-ba0a-47ec-acf6-6256cfd787ad</dc:identifier>
+        <dc:title>人间喜剧（共10册）（一部人性百科全书，一生可能遇到的所有人！法语翻译界泰斗傅雷历时25年，精选精译15篇，全收录！）</dc:title>
+        <dc:creator opf:file-as="巴尔扎克" opf:role="aut">巴尔扎克</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.34.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-30T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="ASIN">B07DFWR98W</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;巴尔扎克&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-12-18T05:01:55.221861+00:00"/>
+        <meta name="calibre:title_sort" content="人间喜剧（共10册）（一部人性百科全书，一生可能遇到的所有人！法语翻译界泰斗傅雷历时25年，精选精译15篇，全收录！）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="人间喜剧（共10册）（一部人性百科全书，一生可能遇到的所有人！法语翻译界泰斗傅雷历时25年，精选精译15篇，全收录！） - 巴尔扎克.jpg"/>
+    </guide>
+</package>
